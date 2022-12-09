@@ -1,0 +1,8 @@
+a=input("str1: ")
+b=input("str2: ")
+if len(a)>len(b):
+	print(b+a+b):
+elif len(a)<len(b):
+	print(a+b+a)
+elif len(a)==len(b):
+	print("strings are same lenght")
